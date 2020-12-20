@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.009,B:\Code\Projects\Plumbers potugi\PlumbersServer.pas=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.358,=FireDACCommonDriver.dcp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.351,=dbrtl.dcp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.451,=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.084,=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.009,B:\Code\Projects\Plumbers potugi\PlumbersServer.dfm=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.029,=emsserverapi.dcp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.205,=emsserverapi.dcp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.367,=FireDACIBDriver.dcp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.354,=FireDAC.dcp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.729,B:\Code\Projects\Plumbers potugi\PlumbersServerProject.dproj=C:\Users\Admin\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.362,=FireDACCommon.dcp</Transaction>
+  </Transactions>
+</BorlandProject>
